@@ -10,8 +10,10 @@ pip3 -r install requirements.txt
 
 seedbf.py -p passphraselist.txt -s 'abandon abandon other words'
 
-### Improvements
+### ToDoList
 - Better description in readme.md
 - Virtualenv usage
 - Electrum seeds
 - Other coins
+- Other languages
+- API key support
