@@ -1,0 +1,4 @@
+argparse
+pybip39
+hdwallet
+requests
