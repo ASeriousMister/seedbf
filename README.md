@@ -13,7 +13,6 @@ cd seedbf
 If you want set-up a virtual environment
 ```
 pip3 install virtualenv
-```
 virtualenv sbve
 ```
 Activate the virtual environment
